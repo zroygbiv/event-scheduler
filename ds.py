@@ -1,12 +1,8 @@
 """
-# Zach Roth
-# CS302
-# Fall 2022
-# Assignment 4 & 5
+# Z. Roth
 
-This file contains the data structures that make up the program database.
-Four classes: Node and Linked_List, and Tree_Node and Tree. Many basic operations
-are provided in order to perform their perspective roles.
+This file contains the data structures making up the program database.
+Four classes: Node, Linked_List, Tree_Node, and Tree.
 """
 
 import collections
